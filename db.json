@@ -1,3 +1,10 @@
 {
-  "projects": []
+  "projects": [
+  {
+      "title": "1 project",
+      "details": "project",
+      "complete": false,
+      "id": 1
+    }
+  ]
 }
